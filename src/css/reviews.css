@@ -1,4 +1,4 @@
-.reviews-section {
+ .reviews-section {
   padding-top: 20px;
   padding-bottom: 20px;
 }
@@ -78,10 +78,10 @@
   transform: rotate(180deg);
 }
 
-.swiper {
+.reviews-swiper {
   width: 343px;
 }
-.swiper-slide {
+.reviews-item {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -116,7 +116,7 @@
     height: 32px;
   }
 
-  .swiper {
+  .reviews-swiper {
     width: 704px;
   }
 }
@@ -135,7 +135,7 @@
     gap: 20px;
   }
 
-  .swiper {
+  .reviews-swiper {
     width: 1376px;
   }
 }
